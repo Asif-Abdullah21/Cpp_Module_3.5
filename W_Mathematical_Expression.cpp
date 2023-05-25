@@ -27,6 +27,7 @@ int main()
     // getchar(); cin >> ch2; getchar(); cin >> c;
 
     cin >> a >> ch >> b >> ch2 >> c;
+    //this ignores space , so there is no problem
   
 
     if(ch=='+')
