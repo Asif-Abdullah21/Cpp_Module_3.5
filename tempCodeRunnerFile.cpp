@@ -1,0 +1,1 @@
+cout << kohli->country << endl;
